@@ -1,3 +1,6 @@
+fork for newb testing and messing around.
+I am currently trying to deploy this as is using hostinger GIT deploy tools. it's pretty straight forward, but I'm not getting it to work. 
+
 🌟 Welcome to OrdPost! 🌟
 
 Hello there, brave explorer of the web! 🚀 Are you ready to embark on a unique journey where the world of blogging meets the power of Bitcoin? Welcome aboard to OrdPost!
